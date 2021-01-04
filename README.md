@@ -11,7 +11,7 @@
   </a>
 </p>
 
-### Hello, I'm LiBai 👋
+<h3 style="margin-top: 18px;">Hello, I'm LiBai 👋</h3>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
