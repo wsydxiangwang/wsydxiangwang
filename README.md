@@ -15,6 +15,6 @@
 
 - 🍰 I am looking for myself.
 - 💬 Experience and sharing: [`学习之路`](https://github.com/wsydxiangwang/note)
-- 📫 How to reach me: ...
-- ⚡ 一个不会弹钢琴的假程序员不是好作家！
+- 📫 How to reach me: `1915398623@qq.com`
+- ⚡ 
 - 😄 Fun fact: You will know my ✨ existence ✨.
