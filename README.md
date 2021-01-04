@@ -17,4 +17,4 @@
 - 💬 Experience and sharing: [`学习之路`](https://github.com/wsydxiangwang/note)
 - 🌧 How to reach me: `1915398623@qq.com`
 - 😄 Fun fact: You will know my ✨ Existence ✨
-- 🌞 Keep learning and exercise. 🎈 Good luck 🎈
+- 🌞 Keep Learning And Exercise  🎈 Good Luck 🎈
