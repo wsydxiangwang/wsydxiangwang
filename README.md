@@ -3,11 +3,11 @@
     href="https://github-readme-stats.vercel.app/api?username=wsydxiangwang&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900" 
     target="_blank"
     rel="noopener noreferrer"
+    style="display: block; margin-top: 7px;"
   >
     <img 
       align="right" 
       src="https://github-readme-stats.vercel.app/api?username=wsydxiangwang&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"
-      style="margin-top: 12px;"
     >
   </a>
 </p>
