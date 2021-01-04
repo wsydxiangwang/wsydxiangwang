@@ -12,7 +12,7 @@
   </a>
 </p>
 
-## Hello, I'm LiBai 👋
+### Hello, I'm LiBai 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
