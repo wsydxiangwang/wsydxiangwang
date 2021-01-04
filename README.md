@@ -15,6 +15,6 @@
 
 - 🍰 I am looking for myself.
 - 💬 Experience and sharing: [`学习之路`](https://github.com/wsydxiangwang/note)
-- 📫 How to reach me: `1915398623@qq.com`
-- ⚡ 
+- 🌧 How to reach me: `1915398623@qq.com`
 - 😄 Fun fact: You will know my ✨ existence ✨.
+- 🌞 Always believe that good things are about to happen.
