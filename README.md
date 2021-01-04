@@ -16,5 +16,5 @@
 - 🍰 I am looking for myself.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- ⚡ JS / Vue / React / Node / PHP / Piano / Write / null
+- ⚡ 一个不会弹钢琴的假程序员不是好作家！
 - 😄 Fun fact: You will know my ✨ existence ✨.
