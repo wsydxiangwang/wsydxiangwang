@@ -1,6 +1,13 @@
 <p>
-  <a href="https://github-readme-stats.vercel.app/api?username=wsydxiangwang&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900" target="_blank">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=wsydxiangwang&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900">
+  <a 
+    href="https://github-readme-stats.vercel.app/api?username=wsydxiangwang&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900" 
+    target="_blank"
+  >
+    <img 
+      align="right" 
+      src="https://github-readme-stats.vercel.app/api?username=wsydxiangwang&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"
+      margin-top: 12px;
+    >
   </a>
 </p>
 
