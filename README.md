@@ -14,7 +14,7 @@
 ### 👋 Hello, I'm LiBai 
 
 - 🍰 I am looking for myself.
-- 💬 Experience and sharing: [`学习之路`](https://github.com/wsydxiangwang/note)
+- 💬 Experience and sharing: [`学习之路`](https://github.com/wsydxiangwang/note) [`掘金`](https://juejin.cn/user/2911162519784525)
 - 🌧 How to reach me: `1915398623@qq.com`
 - 😄 Fun fact: You will know my ✨ Existence ✨
 - 🌞 Keep Learning And Exercise 🎈 Good Luck 🎈
